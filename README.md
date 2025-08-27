@@ -3,8 +3,8 @@
 **Application Streamlit** qui classe des tuiles EuroSAT RGB en **10 classes** et explique les prédictions avec **Grad‑CAM**.  
 Jeu de données ≈27k images 64×64. **Accuracy test ≈ 98,7%**.
 
-![EuroSAT UI 1](eurosat_ui_1.png)
-![EuroSAT UI 2](eurosat_ui_2.png)
+![EuroSAT UI 1](eurosat_ui_1.png.PNG)
+![EuroSAT UI 2](eurosat_ui_2.png.PNG)
 
 ---
 
