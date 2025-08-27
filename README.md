@@ -11,7 +11,7 @@ Jeu de données ≈27k images 64×64. **Accuracy test ≈ 98,7%**.
 # Python 3.10 recommandé
 python -m venv .venv
 # Windows
-.\.venv\Scriptsctivate
+.\.venv\Scriptsctivate
 # macOS/Linux
 source .venv/bin/activate
 
@@ -40,7 +40,7 @@ streamlit run app.py
 ## 🗂️ Structure minimale du dépôt
 
 ```
-.
+
 ├─ app.py                         
 ├─ requirements.txt
 ├─ weights/resnet50_eurosat.pt
